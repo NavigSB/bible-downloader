@@ -1,0 +1,14 @@
+{
+  "name": "bible-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "download.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "string-argv": "^0.3.1"
+  }
+}
